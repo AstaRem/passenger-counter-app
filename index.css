@@ -30,8 +30,7 @@ h2 {
     width: 35%;
     display:flex;
     flex-direction: column;
-    background-color: black;
-    opacity: 90%;
+    background-color: rgb(35, 31, 32, .9);
     justify-content: center;
     align-items: center;
     border-radius:13px;
@@ -50,6 +49,7 @@ button {
 
 #increment-btn {
     background: darkred;
+    
 }
 
 #save-btn {
